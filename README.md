@@ -17,7 +17,7 @@
       cd fonts
       ./install.sh
     ```
-  - change to agnoster theme and change it to your custom theme included on this repository: CustomAgnoster.sh
+  - change to agnoster theme and change it to your custom theme included on this repository: [CustomAgnoster.zsh-theme](./CustomAgnoster.zsh-theme/)
   - get the syntax highlight plugin `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
   - add `zsh-syntax-highlighting` at plugins session on ./zshrc file
   - after that your terminal should look like this(includes react version if the project includes react on package.json):
